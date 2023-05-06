@@ -1,0 +1,1 @@
+docker container prune && docker rmi ttt

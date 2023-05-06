@@ -1,0 +1,1 @@
+kind create cluster --config kind/kind_config.yml
